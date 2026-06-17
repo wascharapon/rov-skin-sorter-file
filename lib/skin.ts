@@ -7078,4 +7078,11 @@ export const rov: IRovSkin[] = [
     name: "Cresht Eren",
     image: "cresht-eren.webp",
   },
+  {
+    id: 1075,
+    base: "Heino",
+    name: "Heino scout regiment",
+    image: "heino-scout-regiment.png",
+    position: 6,
+  },
 ];
