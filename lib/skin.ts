@@ -1262,7 +1262,7 @@ export const rov: IRovSkin[] = [
   },
   {
     id: 193,
-    name: " diao chan azalea fairy",
+    name: "diao chan azalea fairy",
     base: "Diao Chan",
     image: "diao-chan-azalea-fairy.png",
     position: 4,
@@ -6645,7 +6645,7 @@ export const rov: IRovSkin[] = [
   },
   {
     id: 1011,
-    name: "eland orr dreamliner",
+    name: "elandorr dreamliner",
     base: "Elandor",
     image: "eland-orr-dreamliner.png",
     position: 6,
