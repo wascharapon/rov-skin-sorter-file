@@ -7088,7 +7088,7 @@ export const rov: IRovSkin[] = [
   {
     id: 1076,
     base: "Goverra",
-    name: "Perfect Holiday",
+    name: "Goverra Perfect Holiday",
     image: "goverra-perfect-holiday.png",
     position: 6,
   },
