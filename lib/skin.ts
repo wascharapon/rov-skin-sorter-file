@@ -7085,4 +7085,11 @@ export const rov: IRovSkin[] = [
     image: "heino-scout-regiment.png",
     position: 6,
   },
+  {
+    id: 1076,
+    base: "Goverra",
+    name: "Perfect Holiday",
+    image: "goverra-perfect-holiday.png",
+    position: 6,
+  },
 ];
