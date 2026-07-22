@@ -7092,4 +7092,11 @@ export const rov: IRovSkin[] = [
     image: "goverra-perfect-holiday.png",
     position: 6,
   },
+  {
+    id: 1077,
+    base: "Paine",
+    name: "Paine Mystical Beast Serpent",
+    image: "paine-mystical-beast-serpent.png",
+    position: 4,
+  },
 ];
